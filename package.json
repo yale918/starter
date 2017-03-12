@@ -1,0 +1,24 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "a project starter",
+  "main": "server.js",
+  "dependencies": {
+    "mime": "^1.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yale918/starter.git"
+  },
+  "author": "yale918",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yale918/starter/issues"
+  },
+  "homepage": "https://github.com/yale918/starter#readme"
+}
